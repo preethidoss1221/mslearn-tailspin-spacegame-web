@@ -2,7 +2,7 @@
   - '*'
   
   pool:
-    vmImage: 'ubuntu-18.04'
+    name: 'az400tailspinagentpool'
     demands:
       - npm
   
